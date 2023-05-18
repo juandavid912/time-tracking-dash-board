@@ -1,0 +1,24 @@
+.mt-6{
+    margin-top: -8px;
+    padding-top: 15px;
+}
+
+.color{
+    background-color: aqua;
+    background-image: url(./assets/react.svg);
+    height: 50px;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.hrs{
+    margin-top: -10px;
+}
+
+.col-3{
+    width: 18%;
+}
+
+.card-text:last-child {
+    margin-bottom: 20px !important;
+}

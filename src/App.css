@@ -1,0 +1,14 @@
+.w-25{
+  width: 30%!important;
+}
+.bg-primary{
+  background-color: rgb(85, 54, 241) !important;
+}
+
+.bg-primary-subtle{
+  background-color: rgb(62, 38, 180) !important;
+}
+
+.fs-9{
+  font-size: 50px !important;
+}
